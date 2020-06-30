@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Casper',
-  siteDescription: 'Степан до неділі дуже довго.Сайт вже готовий.Треба писати',
+  siteName: 'Book space',
+  siteDescription: '10 потрібних книг зміняти ваше життя. Але щоб знайти цих 10 книг потрібно прочитати 1000.',
   siteUrl: 'http://localhost:8080',
   plugins: [
     {

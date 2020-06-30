@@ -1,49 +1,26 @@
 ---
-title: Suos novi data gente edaci custodia canes
-tags: tag6, tag7, tag8
-category: Digital
-excerpt: Lorem markdownum ipso iam capillis aether ceperat castra ille pectus. Vincere ferociaarva.
-created: 2019-07-29
+title: Просто делай, Делай просто
+tags: Оскар Харманн
+category: Мотивація
+excerpt: Раджу книгу людям, які люблять мотиваційні  речі, та прості істини , які допомагають жити . Ми часто забуваємо головне – ДІЯТИ , ця книга нагадує про це
+created: 2020-06-03
 image: ./images/riccardo-chiarini-2VDa8bnLM8c-unsplash.jpg
 image_caption: Photo by Riccardo Chiarini on Unsplash
-author: author2
+author: Віка Кирилко
 ---
 
-## Est terras non
+## Цікаво, завтра в тур, точніше через пару годин , а я з захопленням і певно трохи з азартом дочитую останні сторінки цієї ПРОСТОЇ і мотиваційної книги.
+Рахую , що головний” козир” даної книги  - це життя людини ( автора книги) , думки, переживання, розставляння  пріоритетів та просто дія.  
+Сподобалась бабуся Оскара ( автора книги), яка сказала:
+>“Хочеш мати те, що мають інші – роби у два рази більше”.
 
-Lorem markdownum ipso iam capillis aether ceperat castra ille pectus. Iuvenes
-omina credens. Sequuntur ora; facinus me videtur remi sacra et quae.
+Надзвичайно прості істини чіпляють)) Аналогія проведена з кіпятком у який кинули моркву, каву і яйце теж дає розуміння, що ми або  розм’якаємо від трудностей, слабнемо… або ж навпаки загартовуємось від життєвих перепетій,  проходимо уроки життя та стаємо сильнішими . 
+Чесно кажучи, хотілось підкреслювати на кожній сторінці думки та переконання автора, адже надзвичайно доступно пояснює речі, які ми так любимо ускладнювати . ПРОСТО РОБИ, менше  думок і налаштувань, менше обговорень планів – просто роби). Запам’ятався приклад самого Оскара у його спортивних досягненнях, а як він  вивчив англійську – у мовній середі. Як він зрозумів, що талант може лишитись талантом, а от  постійне вдосконалення та повтор дій, або ж багато спроб дасть набагато більшу результативність ( приклад Фореста Гамп). 
+## 
+Сподобались слова автора, і про те, що  якщо хочеш стати щасливішим у майбутньому, буть ВЖЕ  щасливим та вдячним.  Щастя як мяз , який ти тренуєш щодня.  
+Цікаво говорить і за страх, ми не маємо жити в ньому, а більше паралізувати  його. Почати кайфувати від думки, що страх все рівно буде. Як на мене то нереально, але сприймати страх трохи з іншої сторони вже лекше  як на мене.
+## Книга мотивує пробувати , не боятись помилитись . 
+Цікава історія з майбутньою дружиною автора, тобто якби Оскар послухав свій страх та невпевненість – то ця жінка була б не його дружиною))
+Раджу книгу людям, які люблять мотиваційні  речі, та прості істини , які допомагають жити . Ми часто забуваємо головне – ДІЯТИ , ця книга нагадує про це) 
 
-> Siccata num longo meliore vivat, iussere viscera linguam nil humo nefandis in
-> Venerem sibi. Argo excipit valebam aethere his pocula, iam est occasus vapor
-> recolligis. Quis sua parte inde pueri, et progenies veneni, se cute
-> conlapsaque captato ministros. Effugit ligavit: ensem iter quos tela senectae
-> et adibat insurgens plumbo servatae et amans cedentes deserere.
 
-## Columnae illa eripiam dumque Hylen
-
-Frenis sua inania parsque emicat, est mare, non paene manibus marmore et omnibus
-motatque contra omnes differtis contra. Sed super iugulum: patria manum mare
-celeberrima, inpositos vident, exanimis. Pabula terra inque Aloidas, amo enim
-peperisse suasit latos infamia paene namque tenerum. Triones et opus. Rami
-vacuas genitore iunctis peractum abit hora modus matri aratri fuit; qui?
-
-> Unus sustinuere Heliadum filia: per vallis mea velle arva non honores. Ictu
-> mens tuae; mea furta, aut vincis aquae respice sano iam hasta. Suos nox
-> ferarumque, harenam simul, gravitate veniente, spatiumque.
-
-## Aper pisces venatu
-
-Sive gemino tela ferro praebuerat, deserta certe virginitate quoque; est ab mihi
-caput ac? Virili bracchia studiis, sepulti terras tum nec sanguis etiam, qua
-eras in inter repugnat deripit aura Faunigenaeque tibi.
-
-1. Laborum quo classi
-2. Vix cum vinctum cursuque ardet
-3. Marcida rogumque
-4. Vias dilacerant raptos
-5. Avus voce
-6. Sua quasque moenia a Quodsi tempora tantus
-
-At momordi non et oculis silva ultor. Flammam es, arma tabe modo et praecipuum
-venti frustraque ambit. Ubique quid dant et Parin adplicor urbes.

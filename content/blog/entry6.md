@@ -1,61 +1,27 @@
 ---
-title: Monendo decimo referunt supremum
-tags: tag5, tag6
-category: Digital
-excerpt: Mariti Panthoides este, sequuntur iusserat silva et non puerum. Venit vox peto! Vincere ferociaarva.
-created: 2019-06-28
+title: Чудовий ранок, як не проспати життя
+tags: Гел Елрод
+category: Саморозвиток
+excerpt: Основною ідеєю є, те Що автор на своєму досвіді, хоче показати, що його спосіб життя підійде любому і змінить Ваше життя в рази краще, ніж воно було до 
+created: 2020-06-04
 image: ./images/qingbao-meng-01_igFr7hd4-unsplash.jpg
 image_caption: Photo by Qingbao Meng on Unsplash
-author: author2
+author: Арсен
 ---
 
-## Nunc arma
 
-Lorem markdownum tremuisse suis. Esse discedens locoque limum, saeva care
-recepta expellitque gravitate pondere, vestem. Mariti Panthoides este, sequuntur
-iusserat silva et non puerum. Venit vox peto!
+На дотик книга приємна ,з твердою обкладинкою і зручним (я забув як називається ця річ,далі буде як пришита закладка або скор. ПЗ)котрий дозволяв не використовувати чогось іншого ,а зразу розгорнути книгу на раніше закінченному моменті читання.
+## Головним героєм книги є сам автор ,розповідь веддеться з його уст ,це історія його життя.
+Також її можна назвати ще автобіографію ,бо у самій розповіді є багато «я,мені ,мене» ,також книжку признано світовим бестселером .
+Історія починаться доволі трагічно і не дуже зрозуміло ,для чого описується так деталізовано матеріал 18+,а саме травми завданні під час автокатастрофи ,чим автор хоче викликати у читача співчуття до себе і більше зацікавити його, доволі хитро.Йому це вдалося ,приинаймні на деякий час .
+Далі по тексу ведеться про його життя після клінічної смерті ,як він пережив цей етап жиитя і зміг рухатися дальше ,про його успіхи і провали ,про погіршення пам’яті,коли ввін забував ,що має зустрітися із діловими партнерами ,або передзвонити подрузі . До моменту світової економічної кризи ,його життя було чудовим ,він виступав із лекціями ,бізнес тренінгами та автором декільком книг .Події того часу зачкпили і його ,коли його дохід впав удвічі і він не мав чим сплачувати рахунки , що загнало його в депресію .
+-	Витягнути його з депресії вдалося другу ,котрий покликав його на пробіжку ,де він почув слова одного бізнес тренера того часу Джима Рона про особистісний розвиток :
+>«Рівень твого успіху ніколи невиходить за межі твого особистісного розвитку,адже успіх супроводжує ту людину,яка здатна його привертати». 
 
-Iapeto quorum, mihi non voluptas, aestus, undis. Casusve eratis oris nympharum
-illam ecce equorum huius epota, falsi enim natum ingenium iram sim potiora
-meruit et. Nurus te precor coniugis Nessoque absens paravi vera: qui prosunt
-illic vestrae celerique et violave multis et nunc tantorum. Mortalis Cepheni
-nec. Si obiecit scilicet.
-
-> Os mentis gerit. Si letifer tota! Desint flos sacri: quas cum trepidans et
-> tamen bracchia. Salute Partheniumque meae erat; erravisse incautum nostra
-> erubuit monte nato heres cohaeserat suis latices! Tecto ore muros cribri; mea
-> ignibus nutrit.
-
-## Currum inque nymphae
-
-Qua viam Oenopiam est non remotos ignibus cogit faciem niger serosque rigescunt
-ossibus ad non. Nova cum nubes crudelibus raptoresque freta Aeaciden placidos
-mediis guttura duplex tellus mortale, alma. Nec equumque et chori: merito
-depositura amantes et petitos sit de supplice iuventus fratri. Exprobravit maius
-terretur templo.
-
-> Et neque minoris fuerit. Via nervo incertam. Feritate opto tempore agmina.
-> Illa marito quadripedis agnovit ore: humus auctor vires cladis. Capacis alvum
-> inferius, incerti nec inmemor, vel vidit.
-
-Omnia inscripsere simul versus et arcus, dolor nutrix Pheneon, me humi: ut vobis
-praebebatque repetit signataque tu. Hoc patulos iuverat, commisi? Luce ait est
-femineis, est sub, huc Iove.
-
-## Dixerat Iuno semperque mane iugeribus felix
-
-Videre numerumque fuit reginam, antra spiritus: en desinis pennatis. Cnosia nec
-imperat, mala procul cadet carentia, est dea. Multi equidem suis atque ad
-Megareus Olenos se caede urbem silvis. Frondibus deo Titan dedisti, inde iugum
-lacriment occupat sine. Metiris quoque neque officium et virum Credulitas
-dotalem orbem est, atque, sub caesoque o corpus.
-
-- Canori tot erit se loqui duorum exercet
-- Nympha sceptroque verus vacca fumos suo nata
-- Obverterat sicco
-- Effugiam perdidit telis
-
-Sibi iam: pennis Ecce est iuvat parabat exiguam putares si potiere. Numina mille
-in inmitibus missus. Solacia spectat corymbis. Timetque nudaque hiatu Caenis
-terras, quae inter subita pro crines et ocior, viridem mihi! Equis magnis trahi
-Quirini magis luctibus satis frontem teque, dici.
+Цими  словами йому вдалося докорінно змінити своє життя.
+У Книзі є дуже багато посилань на інтернет сайти ,що відволікає від читання ,також багато поміток від попереднього читача ,що в свою чергу автоматично приділялося цьому надмірна увага ,також є багато пустих сторінок ,що негативно показує  видавництво.
+## Автор закликає до того ,що варто спробувати його метод ,що він  кращим ,що він змінить ваше життя ,завдяки якому ви зможете спати краще ,більше заробляти і бути кимось в цьому суспільстві ,займати вищі посади ,відбувається пропаганда «правого» способу життя ,щоб кимось бути потрібно чогось досягнути .
+Ніби ти повинен бути кращим ніж твій сусід .Насправді це є антиутопією ,мого світосприйняття .
+Чи порадив я комусь прочитати цю книгу ,звісно що ні .
+Основною ідеєю є ,те Що автор на своєму досвіді ,хоче показати ,що його спосіб життя підійде любому і змінить Ваше життя в рази краще ,ніж воно було до цього .Він мислить поверхнево ,не заглиблюючись у саму суть даних речей , він бере середній і вищий клас ,якому потрібно на роботу о 9 і котрий повертається після 18,або для осіб який ведуть фрілансний спосіб життя,він не бере до уваги державні професії,котрі вимотують людей морально врази більше ніж фізично,ставить акцент на тому,що медитація є одним із головних чинників для змін ,проте медитація є лише даремною тратою часу ,вже краще цей час приділити читанню або зайняттю справою яка подобається,а для людей які ще не знайшли свого покликання ,воно може загнати в депресію,коли вони там ще не є. 
+Такою була моя думка на дану книжку ,можливо доволі поверхнево і прискіпливо ,за легкість читання даної книги вона заслуговує на 3 з 10,чогось нового я із неї не почерпнув.

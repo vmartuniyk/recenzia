@@ -1,64 +1,27 @@
 ---
-title: Temptabat volumina
-tags: tag4, tag5
+title: «Мемуари гейші»
+tags: Артур Голден
 category: Design
-excerpt: Virgo per novercae, vigor unde cratere fumis, sine atque, Parthaoniae genitoris. Vincere ferociaarva.
-created: 2019-05-05
+excerpt: Питання свободи вибору і волі. 
+created: 2019-09-03
 image: ./images/phoenix-han-Nqdh0G8rdCc-unsplash.jpg
 image_caption: Photo by Phoenix Han on Unsplash
-author: author1, author2, author3
+author: Поросюк Оленка
 ---
 
-## Hinc incidit deam laudis rursus plumbum Tereusque
+## Питання свободи вибору і волі. Як же часто ми себе запитуємо чим хочемо займатися, яке наше покликання та який шлях обрати. 
+Хтось пробує один за іншим у пошуках, хтось обирає один і отримує задоволення від процесу, а комусь бракує сили змінити напрямок навіть після прийняття факту, що це не те, чим би ти хотів займатися. 
+Маленьку Чійо ніхто не запитував. У неї ніколи не було вибору професії чи шляху у житті. Просто одного дня хтось вирішив, що для неї кращим життям буде стати гейшею. Це мені здалося, що так для неї буде краще, хоча люди зробили це з власних меркантильних поглядів, хто зна. Жінка, що розповідає свою історію вже зовсім не схожа на маленьку Чійо. ЇЇ змінили, вона виросла, бачила набагато більше, ніж мала. Досвід, як же він змінює усіх нас. 
+Не можна сказати, що життя у домі гейш було раєм, аж ніяк. Спершу ти працюєш служницею, ходиш до школи, навчаєшся мистецтву бути гейшею, допомагаєш іншим гейшам дому. До слова, і тут Чійо не пощастило, гейша їхньої Окіа (дому гейш) одразу її не злюбила і всякими способами намагалася зробити життя дівчинки нестерпним. 
 
-Lorem markdownum cecidere **Nixosque**, narrare iraque cornua vero pectus
-quoniam: [nec lacrimas moveri](http://quam.io/daturum) et aequo. Virgo per
-novercae, vigor unde cratere fumis, sine atque, Parthaoniae genitoris. Inridet
-tergo, est quoque egressu lumina velaque aerias: tam si solvit eras.
+## Якщо вам здається, що хтось вирішує зробити з дівчинки гейшу по доброті душевній, то тут мушу вас розчарувати. Це все пов’язано з грошима і майбутнім заробітком.
+По суті власниця Окіа вкладає кошти в Чійо, які потім, коли дівчинка стане гейшею вона відробить і навіть більше, почне утримувати всіх мешканців дому. По суті це ризикована інвестиція, тому дівчинка мала бути вартою того. 
+Тут варто ще згадати про мотивацію, чому взагалі Чійо мало хотітися стати гейшею? Чому б не повернутися додому, не втекти? Так ось, втекти не вийшло. А стосовно мотивації…. Знаєте, бувають події в житті, які повністю тебе змінюють… Дають тобі якусь таку дивну силу, що хочеться рухатись вперед . Такою подією в житті Чійо стала зустріч із Головою. Його обличчя, зовнішність і найважливіше відношення до маленької служниці, яка плакала на мості вразили дівчинку до глибини душі. Вона прийняла рішення будь-яким способом стати гейшею і знову зустріти Голову, завжди бути поруч.
 
-1. Arvis adfusaeque
-2. Opiferque consonat vocat iuvenali fata miracula aera
-3. Solido timidis habet
-4. Aesarei per
-5. Non faces
+Життя дівчинки кардинально змінюється, коли за її навчання береться найпопулярніша гейша Гіону – Мамеха. Тут голова йде обертом від усіх тонкощів життя гейш. Одна воскова зачіска чого варта. Незручне взуття, кімоно, сон на дерев’яній підставці, макіяж. Все це важливо, бо воно формує образ. Проте найважливішою частиною є саме поведінка. Гейша – це не жінка легкої поведінки і точно не повія. Гейша – це набагато більше. Вона підтримує розмову, розважає, танцює, грає на музичному інструменті, завжди красива, частково недосяжна, елегантна та вихована. Сама історія дівчинки Чійо, яка згодом стане гейшею Саюрі вражає, бо вона без прикрас розповідає усі деталі етапів становлення гейшею. Конкуренція, інтриги, змови, тактика, маніпуляції – все це також наявне в їхньому житті, бо якщо ти хочеш стати найкращим, ти повинен розуміти на що готовий іти на шляху до мети. 
 
-## Bene carebunt adflixit germana poenas audit gratissima
+## Мені книга була дуже пізнавальною. Такий собі концентрат довоєнної культури і життя Японії.
+Приклад відношення чоловіків до жінок і навпаки. Гейші дуже рідко доводилось стати щасливою. Вона могла лише сподіватися на милість і прихильність чоловіка. Часом поведінка головної героїні здається дивною і нелогічною. Проте якщо стати на її місце, зрозуміти увесь її шлях, то все чого вона хотіла, насправді як і будь – яка жінка, це бути щасливою та коханою. 
+Дуже сподобалась фраза з книги, яка певною мірою пронизує її всю: «Ми стаємо гейшами не тому що у нас такий вибір, ми стаємо ними, бо в нас немає іншого вибору».
+Якщо раптом ви бачили лише фільм, як було зі мною до прочитання книги, він напевне вам здався дивовижним, хоч і не завжди зрозумілим. Так ось, після прочитання книги усе стає на свої місця, усі прогалини заповнюються та історія набуває нового шарму.
 
-Penates salutifera saepe, verbis. Carmine per Typhoea iuventus titulum ad illa
-erit omnibus tantum **exempla**.
-
-## Ut Tegeaea atri et sustulit vestrae scinditque
-
-Et speciem multi, rapto **nunc** minuunt capiti voluere animalia robore.
-Concutio flammam reddita, ut cuspide, corpora fera tendit. Hic quae vertere luce
-o vite ut iuris!
-
-## Arboribus uni nos loquentem et clausa Me
-
-Ostendens tua causa corporis territus, urbesque super, accipitris Semeles
-precatur et terram ea salute nisi: vivit Alcyonen. Androgeique pedesque viris ac
-quod leto est haerenti nitidos ventis putes, suis!
-
-1. Dieque nunc ferarum memorante Nebrophonosque terrent pallorem
-2. Purpurea e est arceat insilit precibus malo
-3. Et ipsi imoque sanguine reddere
-4. Dabat et uberior quoque
-
-## Hastam nec diva lecte
-
-Et lapsum iter puellae oculis? Ab mirum titulum tibi aera aris, dea dura alto
-olivae, quid uteroque. Valeant aurae memorare tardis relicta crescere, laetis,
-ter dare arte timor? Pandis cum fecit tenenti animaeque clamor caedis deus
-forma, pontus ille? Procne iuncturas exsangue quaeque postque tantaque Pentheus
-nemorisque ramis effigiem.
-
-Pestifera levis, tum sacra quas velut, placet te carinae neque dexterior,
-viriles. Nec [cinerem](http://www.et-sic.net/feroxsi.php) limen, imas locus et
-potest timet Athenae vertitur dignus inque. Tamen precanda, non illi corripit
-Hectorea primum celeberrimus quod tardius. Pascas oris quae: tanta loco. Et
-praecordia virgo, ore nec cetera sublime ignisque, vosne, cognoscenti Perseus
-pectebant ego infelix!
-
-Excessere quondam, umquam, vulnere turba, o cum, diu crinita sicut illinc! Sine
-aut tacebitur muneris cornua. Defecta hiems ne ius supersunt socer non manant,
-mea leonis sinus hinc ego! Non et excipit dedissent dixit.

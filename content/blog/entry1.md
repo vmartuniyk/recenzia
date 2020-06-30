@@ -1,61 +1,27 @@
 ---
-title: пумп пум
-tags: tag1, tag2
-category: Digital
-excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
-created: 2019-01-10
+title: Бідний тато, багатий тато
+tags: багатство, читативсім
+category: Фінанси
+excerpt: Чому ніхто не навчає фінансової грамотності?.
+created: 2020-06-26
 image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
 image_caption: Photo by Josh Spires on Unsplash
-author: author1
+author: Volodimir Martuniyk
 ---
 
-## Ossa narrat sortita fecerat sit conataque
+## Відгук на книгу Роберта Кійосакі “Бідний тато, багатий тато”
 
-Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
-candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia
-arva.
+Перша за все мабуть потрібно відповісти чому ж саме так називається ця книга. Невже у автора було два батька. Насправді головний герой цієї книги це Роберт Кійосакі який зараз дуже забезпечена людина і ще і до того ж письменник.
+У Роберта був власний батько який працював на державній в службі в сфері освіти а також у нього був друг Майк в якого тато займався власним бізнесом. Роберт і Майк були найкращими друзями і одного дня вони вирішили що хочуть бути багатими адже в той час для них багато речей були не доступними. Вони вирішили що хочуть стати багатами але хто ж мав їх цьому навчити?. Тоді Роберт підійшов до свого батька і запитав його як розбагатіти і той йому у відповідь сказав що таке питання краще задати для батька Майка адже він займається бізнесом і більше знає по цій темі.
+## Насправді реальність була така що батько Роберта на той час заробляв більше ніж батько Майка але про це вже згодом.
+Тато Майка взяв навчати Роберта і Майка до себе на навчання але це було дуже не звичне навчання. Адже якщо самому подумати досить важко пояснити 9 річній дитині як стати багатим особливо тоді коли ти сам цього не знаєш. Тато Майка використовував реальні ситуації з життя для навчання цих дітей.
+Про ці методи та ситуації можна дуже довго описувати але  якщо ж повернутись до питання “Чому одні люди багатіють а інші ні”. В чому ж проблема?
+## Основна проблема в тому що людину ніхто  не навчає фінансової грамотності.
+Зазвичай не в школі не в університеті такого не навчають(. 
+Головну різницю тут роблять Активи і Пасиви. Багаті люди купують Активи а бідні купують пасиви а середній клас купує пасиви а думає що це активи. Але що ж таке АКТИВ і ПАСИВ і як це пояснити для пересічних людей які не вивчають бухгалтерський облік.?
+Простими словами АКТИВ це те що приносить гроші до вашого гаманця а ПАСИВ це те що забирає гроші з вашого гаманця. Ось для прикладу на літній період ви здаєте свій будинок для туристів і отримуєте за це кошти це Актив або ж ви купили акції компанії Тесла чи Apple і ці підприємства виплачують вам як інвестору дивіденди кожного місяця у певній сумі або ж ви зробили якусь супер круту програму і продаєте її для людей або ж написали книгу і отримуєте відсотки від продаж. Думаю з цим  розібрались. А от щодо пасиву то думаю вам тут буде легше зрозуміти. Наприклад ви купили собі 11 Айфон за кругленьку суму і витрачаєте по 200 грн в місяць на дзвінки та Netflix. Це буде ваш пасив. Але інколи одні і ті ж речі можуть бути як активом так і пасивом і тут вже багато що залежить від Вас. Ось для прикладу візьмемо той ще телефон але тепер ви знімає просто дуже круті відео ролики для ютубу і отримуєте вже наприклад 700 грн в місяць дохід за допомогою вашого телефону.
 
-## Eleis celeberrimus loci ait falsa infelix tuoque
+> Ох і тема з ціми активами і пасивами дуже цікава і обширна. І багато людей або цього не знають або над цим не задумуються. Питання над якими потрібно задуматись як створювати активи. А вас є активи? А ваші квартира і автомобіль це ваші активи?(Подумайте над цим якось у вільний час).
 
-Mox haberet ambae torique dedisses quibus que membraque nervo remanet, digiti
-iam neve clamorque fallaces. Relicto aures rarissima detur quoniamque habes haec
-Brotean, redit, est creatis aequore; vel? Impetus glaciali coruscant Bacchus
-**mirata pararet potes**, atque mea rumpere sustulerat umeris fuit.
+В цій книзі автор намагається донести різні думки та способи до читача у темі грошей та багатства. Здебільшого в книзі описуються Американський ринок та все ж поради та ідеї можна примінити і у нас. Чи станете ви багатим відразу після прочитання цієї книги ? Мабуть тут не можна однозначно відповісти все буде залежати від вас адже в кінцевому результаті важливо що ви будете роботи з отриманою інформацією. Я рекомендую прочитати цю книгу ВСІМ не залежно від того хочете ви стати багатим чи ні у будь якому разі тут ви знайдете відповіді на багато своїх запитань.
 
-## Facundis quid
-
-Venerit conveniunt per memori sed laniarat Dromas, solum tum. Undis lacteus
-infitiatur adest [acies certius](http://www.tollit-clamavit.io/) inscius, cum ad
-emittunt dextra.
-
-Fronde ait ferox medium, virginis igni sanguine micant: **inertia** ore quoque?
-Iaculi quicquid **virescere misit stirpe** Theseus Venerem! Falce taceo oves,
-idem fugit, non abiit palam quantum, fontes vinci et abiit. Deiectoque exstabant
-**Phrygiae** cepit munus tanto.
-
-## Et capienda Peneia
-
-*Haec moenia pater* signataque urget, ait quies laqueo sumitque. Misit sit
-moribunda terrae sequar longis hoc, cingebant copia cultros! Alis templi taeda
-solet suum mihi penates quae. Cecidere *deo agger infantem* indetonsusque ipsum;
-ova formasque cornu et pectora [voce oculos](http://www.tibibene.io/iter.html),
-prodis pariterque sacra finibus, Sabinae. Fugarant fuerat, famam ait toto imas
-sorte pectora, est et, procubuit sua Appenninigenae habes postquam.
-
-## Quoque aut gurgite aliquis igneus
-
-Spatiosa ferax iam sis ex quae peperit iacentes, grates rogat quae senserat nec
-nec verba harenas inplent. Per dum necis in in versus quin loquendi latens;
-inde. **Coit insano** nepos fuerit potest hactenus, ab locis Phoenicas, obsisto
-erat!
-
-> Nec uterum Aurorae petentes abstulit. Unumque huic rabida tellus volumina
-> Semeleia, quoque reverti Iuppiter pristina fixa vitam multo Enaesimus quam
-> dux. Sua **damus** decipere, ut **obortas** nomen sine vestrae vita.
-
-Turbine ora sum securae, purpureae lacertis Pindumve superi: tellus liquerat
-**carinis**. Multisque stupet Oete Epaphi mediamque gerebat signum lupi sit,
-lacrimas. Tumidi fassusque hosti, deus [vixque desint
-dedit](http://hisnurus.com/putares-pars) dum et, quo non, dea [suras
-tantum](http://mactata.org/inducere.php). Unus acta capulo. In Dryope sic
-vestigia est neu ignis in **illa mirantur agilis** densior.
