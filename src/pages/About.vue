@@ -3,16 +3,16 @@
     <div class="container mx-auto pt-24 pb-16 px-4 sm:px-0">
       <div class="lg:mx-32 md:mx-16 sm:mx-8">
         <h1 class="pb-8 text-6xl font-medium">About us</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
+        <p>Всім привіт.🖐 Розпочався 2021 рік і настав час підкачати один дуже важливий аспект вашого життя. Час зайнятися корисними справами, будемо заробляти гроші🤑 і читати.👀</p>
+        <p>Всіх запрошую до цього “Книжкового Космосу”</p>
+        <p>Правила ось такі :</p>
+        <p>📗Кожен учасник обирає собі книгу для прочитання.(Книгу можна обрати будь-яку)
+        <p>⚡️СТАРТ -1 лютого.</p>
+        <p>💰Учасник перекидає стартовий внесок - 100грн в спеціальний фонд(переказ на карту)</p>
+        <p>✍️По закінченню 3-ох тижнів тобто 21 лютого о 23-59. Учасник має прочитати книгу та написати невеличкий звіт відгук про книгу та відправити організатору.</p>
+        <p>🤑Хто успішно прочитав книгу та написав звіт отримують назад свої кошти, а також кошти тих хто не прочитав книгу.</p>
+        <p>☝️Для участі заповніть дані в  <strong><a href="https://forms.gle/31iAFceRp4Pz8vMQA">анкеті</a>  </strong> та приєднайтесь в групу  телеграм для подальшого обговорення.</p>
+        <p>💥(Для учасників будуть приємні бонуси і плюшки)</p>
       </div>
     </div>
   </Layout>

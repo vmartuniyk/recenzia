@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Book space',
-  siteDescription: '10 потрібних книг зміняти ваше життя. Але щоб знайти цих 10 книг потрібно прочитати 1000.',
+  siteDescription: '10 потрібних книг змінять ваше життя. Але щоб знайти цих 10 книг потрібно прочитати 1000.',
   siteUrl: 'http://localhost:8080',
   plugins: [
     {
