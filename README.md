@@ -1,9 +1,10 @@
-# Gridsome Casper V3 Starter
+# BookSpace
+![bookspace](https://user-images.githubusercontent.com/13577787/112700962-ff568c00-8e97-11eb-8444-f3ec61adf55f.png)
 
-Grisome starter based on [Ghost Casper V3](https://github.com/TryGhost/Casper) and tailwindcss.
+My author's project where everyone chose a book to read and write a review of the book 
 
 ## Demo
-[https://gridsome-starter-casper-v3.now.sh/](https://gridsome-starter-casper-v3.now.sh/)
+[https://bookspace.netlify.app/](https://bookspace.netlify.app)
 
 ## Features
 
@@ -30,17 +31,3 @@ With Gridsome offering a plugin-rich ecosystem, there are a few key plugins that
 - [gridsome-remark-classes](https://gridsome.org/plugins/@noxify/gridsome-remark-classes) Gridsome Remark plugin to add css classes to any element
 - [gridsome-remark-table-align](https://gridsome.org/plugins/@noxify/gridsome-remark-table-align) Gridsome Remark plugin move the `table` align defintion to the `tableCell` definition.
 
-
-
-## Install
-
-### 1. Install Gridsome CLI tool if you don't have
-
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-blog https://github.com/noxify/gridsome-starter-casper-v3` to install gridsome with this starter
-2. `cd my-blog` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
