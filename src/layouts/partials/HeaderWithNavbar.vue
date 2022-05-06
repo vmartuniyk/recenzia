@@ -33,11 +33,11 @@
               class="hover:text-white hidden sm:block"
               v-bind:class="{'mr-6' : index != Object.keys($static.metadata.social).length - 1}"
             >
-              <span class="text-sm">
+              <!-- <span class="text-sm">
                 <a :href="element.link" target="_blank" rel="noopener noreferrer">
                   <font-awesome :icon="['fab', element.icon]" />
                 </a>
-              </span>
+              </span> -->
             </li>
           </ul>
         </div>
@@ -47,9 +47,9 @@
 
     <div class="logo pt-0 pb-16 md:pb-32 md:pt-16 container mx-auto text-center text-white">
       <h2 class="m-0">
-        <span class="text-4xl">
+        <!-- <span class="text-4xl">
           <font-awesome :icon="['fas', 'ghost']" class="mb-1 mr-3"></font-awesome>
-        </span>
+        </span> -->
         <span class="text-5xl text-white">{{ $static.metadata.siteName }}</span>
       </h2>
       <div class="text-gray-400 font-thin text-xl">{{ $static.metadata.siteDescription }}</div>
